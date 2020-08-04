@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/PetsittingApp/static/css/main.be971a7a.chunk.css",
+    "main.js": "/PetsittingApp/static/js/main.5be7ea99.chunk.js",
+    "main.js.map": "/PetsittingApp/static/js/main.5be7ea99.chunk.js.map",
+    "runtime-main.js": "/PetsittingApp/static/js/runtime-main.9830ae68.js",
+    "runtime-main.js.map": "/PetsittingApp/static/js/runtime-main.9830ae68.js.map",
+    "static/css/2.da8c7b4f.chunk.css": "/PetsittingApp/static/css/2.da8c7b4f.chunk.css",
+    "static/js/2.dec505a0.chunk.js": "/PetsittingApp/static/js/2.dec505a0.chunk.js",
+    "static/js/2.dec505a0.chunk.js.map": "/PetsittingApp/static/js/2.dec505a0.chunk.js.map",
+    "index.html": "/PetsittingApp/index.html",
+    "precache-manifest.5e8075577ff69c8323afea0e3ffbd3bc.js": "/PetsittingApp/precache-manifest.5e8075577ff69c8323afea0e3ffbd3bc.js",
+    "service-worker.js": "/PetsittingApp/service-worker.js",
+    "static/css/2.da8c7b4f.chunk.css.map": "/PetsittingApp/static/css/2.da8c7b4f.chunk.css.map",
+    "static/css/main.be971a7a.chunk.css.map": "/PetsittingApp/static/css/main.be971a7a.chunk.css.map",
+    "static/js/2.dec505a0.chunk.js.LICENSE.txt": "/PetsittingApp/static/js/2.dec505a0.chunk.js.LICENSE.txt",
+    "static/media/about-1.jpg": "/PetsittingApp/static/media/about-1.5958d806.jpg",
+    "static/media/styles.css": "/PetsittingApp/static/media/pricing-3.2bed7f66.jpg",
+    "static/media/faq-img.jpg": "/PetsittingApp/static/media/faq-img.e509eac7.jpg",
+    "static/media/font-awesome.min.css": "/PetsittingApp/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/gallery-1.jpg": "/PetsittingApp/static/media/gallery-1.99fcb86b.jpg",
+    "static/media/gallery-2.jpg": "/PetsittingApp/static/media/gallery-2.42794abb.jpg",
+    "static/media/gallery-3.jpg": "/PetsittingApp/static/media/gallery-3.b0e6a7d1.jpg",
+    "static/media/gallery-4.jpg": "/PetsittingApp/static/media/gallery-4.fcbf9cd6.jpg",
+    "static/media/gallery-5.jpg": "/PetsittingApp/static/media/gallery-5.a01d6088.jpg",
+    "static/media/gallery-6.jpg": "/PetsittingApp/static/media/gallery-6.fcac38bb.jpg",
+    "static/media/image_1.jpg": "/PetsittingApp/static/media/image_1.9567bcc3.jpg",
+    "static/media/image_2.jpg": "/PetsittingApp/static/media/image_2.c494b8ff.jpg",
+    "static/media/image_3.jpg": "/PetsittingApp/static/media/image_3.89fdf5ff.jpg",
+    "static/media/person_1.jpg": "/PetsittingApp/static/media/person_1.bbcd5413.jpg",
+    "static/media/person_2.jpg": "/PetsittingApp/static/media/person_2.2cd3dcd3.jpg",
+    "static/media/person_3.jpg": "/PetsittingApp/static/media/person_3.514eee1b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9830ae68.js",
+    "static/css/2.da8c7b4f.chunk.css",
+    "static/js/2.dec505a0.chunk.js",
+    "static/css/main.be971a7a.chunk.css",
+    "static/js/main.5be7ea99.chunk.js"
+  ]
+}
