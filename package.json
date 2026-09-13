@@ -16,6 +16,10 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
+  "overrides": {
+    "browserslist": "4.28.7",
+    "svgo": "2.8.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
